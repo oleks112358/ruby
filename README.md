@@ -152,7 +152,6 @@ is required.
 
     **NOTE**: teeny of the API version may be different from one of Ruby's
     program version
-
     You may have to be a super user to install Ruby.
 
 If you fail to compile Ruby, please send the detailed error report with the
